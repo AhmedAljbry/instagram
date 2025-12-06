@@ -1,3 +1,5 @@
+![Instagram Clone](Gemini_Generated_Image_a9rzo2a9rzo2a9rz.png)
+
 # Instagram Clone – Full Social Media App  
 ### Built with Flutter, Firebase, and Modern Social Media Architecture  
 ### Developed by **Ahmed Aljbry**
@@ -56,19 +58,19 @@ The goal of this project is to demonstrate complete front-end + back-end integra
 - In-app notifications (likes, follows, comments, messages)
 
 ### 👤 Profile
-- Edit profile
-- Profile picture update
-- Bio, username, website
-- User posts grid
-- Tagged posts
-- Followers / Following lists
-- Follow / Unfollow system
-- User search bar
+- Edit profile  
+- Profile picture update  
+- Bio, username, website  
+- Grid of user posts  
+- Tagged posts section  
+- Followers / Following system  
+- Follow / Unfollow  
+- User discovery  
 
 ### 🔍 Search
-- Search by username
-- Popular users recommendations
-- Search history (local storage)
+- Search by username  
+- Recommended users  
+- Search history (local storage)  
 
 ---
 
